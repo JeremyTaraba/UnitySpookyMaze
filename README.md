@@ -8,4 +8,4 @@ For reference the url of this folder is: https://github.com/JeremyTaraba/UnitySp
 
 # How to Play
 
-To play the game, run the SpookyMaze.exe found in the "Play Game" folder.
+To play the game, unzip the folder and run the SpookyMaze.exe found in the folder.
