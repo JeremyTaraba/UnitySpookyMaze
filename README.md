@@ -9,3 +9,4 @@ For reference the url of this folder is: https://github.com/JeremyTaraba/UnitySp
 # How to Play
 
 To play the game, unzip the folder and run the SpookyMaze.exe found in the folder.
+Microsoft Defender may flag this as potentially dangerous, if this happens then on the popup click the "more info" button and then the "run anyway" to run the game.
